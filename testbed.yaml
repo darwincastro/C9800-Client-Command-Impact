@@ -1,0 +1,19 @@
+---
+
+devices:
+    wlc2.9840:
+        alias: '9800-l'
+        type: 'C9800'
+        os: 'iosxe'
+        platform: cat9800
+        credentials:
+            default:
+                username: admin
+                password: admin
+        connections:
+            cli:
+                protocol: ssh
+                ip: 172.16.10.1
+                port: 22
+                arguments:
+                    connection_timeout: 360
