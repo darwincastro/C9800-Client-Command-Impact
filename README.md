@@ -113,3 +113,8 @@ In another scenario, we disable and then enable the wireless policy profile of t
 2024-02-20T17:47:55: %AETEST-INFO:  Success Rate                                                              0.0% 
 2024-02-20T17:47:55: %AETEST-INFO: --------------------------------------------------------------------------------
 ```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
